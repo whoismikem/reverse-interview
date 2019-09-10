@@ -2,26 +2,6 @@
 
 This is a list of questions which may be interesting to a tech job applicant.
 The points are not ordered and many may not apply to a given position, or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
-I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
-
-If you asked something not listed here, send in a PR.
-
-Translations: 
-
-[Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
-
-## Expected usage
-
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
-
-Definitely don't try to ask everything from the list.
-
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short. 
 
 # The Role
 
